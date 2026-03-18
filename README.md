@@ -15,6 +15,11 @@ y en mejoras de estabilidad del control de motores.
 - C / C++
 - Módulo QTR-8A (sensores reflectivos)
 - Driver TB6612FNG (puente H)
+- Micro Motorreductor Tipo Pololu 35mm 3000rpm 10:1
+- Cable plano
+- Pcb Para Seguidor De Linea Tb6612
+- Kit De Llantas Para Seguidor De Línea
+- piezas impresas en 3D para las llantas y la parte forntal del sigue lineas
 
 ## Resultado
 Después de las correcciones, el robot respondió de forma estable y consistente
